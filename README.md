@@ -1,9 +1,9 @@
-# Java11 Sample Code
+# Java11 sample code
 
 Oracle Java SE Development Kit 11.0.7 (2020/04/14).  
 Eclipse IDE for Enterprise Java Developers 2020-03 (4.15.0).  
-..
-Add .gitignore file to each project.
+  
+Add .gitignore file to each project.  
 github / gitignore / Global / Eclipse.gitignore  
 [https://github.com/github/gitignore/blob/master/Global/Eclipse.gitignore](https://github.com/github/gitignore/blob/master/Global/Eclipse.gitignore)  
   
