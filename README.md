@@ -3,9 +3,11 @@
 Oracle Java SE Development Kit 11.0.7 (2020/04/14).  
 Eclipse IDE for Enterprise Java Developers 2020-03 (4.15.0).  
   
-Add .gitignore file to each project.  
+Add .gitignore file to each Java Project.  
 github / gitignore / Global / Eclipse.gitignore  
 [https://github.com/github/gitignore/blob/master/Global/Eclipse.gitignore](https://github.com/github/gitignore/blob/master/Global/Eclipse.gitignore)  
+  
+Project list  
   
 1. [Divide list by specified number.](https://github.com/yvafdevnsk/java11/tree/master/java11-split-list)  
 
@@ -44,6 +46,12 @@ Destination: /home/mizuki/workspace/github/java11
     java11  
       Git Staging  
         Commit  
+
+## Push Commit
+
+    java11  
+      History  
+        Push Commit  
 
 # Git user settings
 
