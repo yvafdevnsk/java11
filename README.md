@@ -10,6 +10,7 @@ github / gitignore / Global / Eclipse.gitignore
 Project list  
   
 1. [Divide list by specified number.](https://github.com/yvafdevnsk/java11/tree/master/java11-split-list)  
+2. [Returns (not view) the portion of srcList between the specified start index, inclusive, and end index, exclusive.](https://github.com/yvafdevnsk/java11/tree/master/java11-sub-list)  
 
 # Eclipse EGit settings
 

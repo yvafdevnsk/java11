@@ -34,7 +34,10 @@ public class Util {
      * <p>引数のリストの要素を新しいインスタンスのリストに格納して部分リストを取得する。
      * 部分リストへの操作は引数のリストに影響を与えない。</p>
      * 
-     * <p><code>srcList.size() &lt; end</code>の場合はリストの最後まで格納する。</p>
+     * <ul>
+     *     <li><code>srcList.size() &lt; end</code>の場合はリストの最後まで格納して返す。</li>
+     *     <li><code>start == end</code>の場合は空のリストを返す。</li>
+     * </ul>
      * 
      * @param srcList 部分リストを取得するリスト
      * @param start 開始インデックス(0から)
